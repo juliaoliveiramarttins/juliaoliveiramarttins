@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World! me chamo Julia <3<br>Tudo bem?<br><br>Sou estudante de desenvolvimento de software multiplataforma na FATEC e estou no 3º semestre. <br><br>Adoro estudar programação. Especificamente amo desenvolvimento de Front-End e Design UI/UX, pois sinto que neles posso explorar toda a minha criatividade e cumprir grandes desafios!<br><br>--------------------------------------------------------------------------------------------------------------------<br><br>Hello World! My name is Julia <3<br>All good?<br><br>I'm a multiplatform software development student at FATEC and I'm in the 3rd semester. <br><br>I love studying programming. Specifically I love Front-End development, Design web and UI/UX Design because, I feel that in them I can explore all my creativity and meet great challenges!</p>
+<p align="left">Hello World! me chamo Julia <3<br>Tudo bem?<br><br>Sou estudante de desenvolvimento de software multiplataforma na FATEC e estou no 4º semestre. <br><br>Adoro estudar programação. Especificamente amo desenvolvimento de Front-End, Web Design e Design UI/UX, pois sinto que neles posso explorar toda a minha criatividade e cumprir grandes desafios!<br><br>--------------------------------------------------------------------------------------------------------------------<br><br>Hello World! My name is Julia <3<br>How's it going?<br><br>I'm a multiplatform software development student at FATEC, currently in my 4th semester. <br><br>I love studying programming, especially Front-End development, Web Design, and UI/UX Design. These areas allow me to explore my creativity while tackling exciting challenges!</p>
 
 ###
 
