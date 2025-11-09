@@ -122,5 +122,5 @@ Hello! I'm Julia, a Multiplatform Software Development student at FATEC, current
 </div>
 
 <div align="center">
-  <i>✨ "Code is like humor. When you have to explain it, it's bad." ✨</i>
+  <i>✨ "I solemnly swear I am up to no good... debugging my code at 2 AM" ✨</i>
 </div>
