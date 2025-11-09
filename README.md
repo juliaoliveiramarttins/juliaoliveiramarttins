@@ -6,7 +6,7 @@
 
 <p align="left">
 🇧🇷 <strong>PT-BR:</strong><br>
-Olá! Sou Julia, estudante de Desenvolvimento de Software Multiplataforma na FATEC, atualmente no 4º semestre. 
+Olá! Sou Julia, estudante de Desenvolvimento de Software Multiplataforma na FATEC, atualmente no 5º semestre. 
 <br><br>
 💜 Apaixonada por desenvolvimento Front-End, Web Design e UI/UX Design, onde posso unir criatividade e código para criar experiências incríveis!
 <br><br>
@@ -15,7 +15,7 @@ Olá! Sou Julia, estudante de Desenvolvimento de Software Multiplataforma na FAT
 --------------------------------------------------------------------------------------------------------------------
 <br><br>
 🇺🇸 <strong>EN:</strong><br>
-Hello! I'm Julia, a Multiplatform Software Development student at FATEC, currently in my 4th semester.
+Hello! I'm Julia, a Multiplatform Software Development student at FATEC, currently in my 5th semester.
 <br><br>
 💜 Passionate about Front-End development, Web Design, and UI/UX Design, where I can combine creativity and code to create amazing experiences!
 <br><br>
