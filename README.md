@@ -75,31 +75,31 @@ Hello! I'm Julia, a Multiplatform Software Development student at FATEC, current
 </div>
 
 ---
-
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juliaoliveiramarttins&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="160" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=juliaoliveiramarttins&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=true&order=2" height="160" alt="languages graph"  />
+  <!-- Estatísticas gerais -->
+  <img src="https://github-readme-stats.zcy.dev/api?username=juliaoliveiramarttins&show_icons=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+
+  <!-- Linguagens mais usadas -->
+  <img src="https://github-readme-stats.zcy.dev/api/top-langs?username=juliaoliveiramarttins&layout=compact&langs_count=6&theme=radical&hide_border=true" height="160" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliaoliveiramarttins&radius=16&theme=react&area=true&order=5&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph"  />
+  <!-- Gráfico de atividades -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliaoliveiramarttins&radius=16&theme=github&area=true&hide_border=true&custom_title=Contribution%20Graph" height="300" alt="Activity Graph" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaoliveiramarttins&theme=radical&hide_border=true" alt="streak stats" />
+  <!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=juliaoliveiramarttins&theme=radical&hide_border=true" alt="Streak Stats" />
 </div>
-
----
 
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juliaoliveiramarttins&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="trophy" />
-</div>
+  <img src="https://github-profile-trophy.vercel.app/?username=juliaoliveiramarttins&theme=radical&no-frame=true&no-bg=false&marg
 
----
 
 <h2 align="center">📫 Let's Connect!</h2>
 
