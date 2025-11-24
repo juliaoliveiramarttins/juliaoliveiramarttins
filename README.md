@@ -74,7 +74,6 @@ Hello! I'm Julia, a Multiplatform Software Development student at FATEC, current
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="VS Code" />
 </div>
 
----
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
@@ -98,8 +97,8 @@ Hello! I'm Julia, a Multiplatform Software Development student at FATEC, current
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juliaoliveiramarttins&theme=radical&no-frame=true&no-bg=false&marg
-
+  <img src="https://github-profile-trophy.vercel.app/?username=juliaoliveiramarttins&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
 
 <h2 align="center">📫 Let's Connect!</h2>
 
